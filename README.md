@@ -8,10 +8,10 @@ Development Kits from Pycom will be provided (https://www.pycom.io/product/sipy/
 
 To get started with Sigfox you can follow the guide online: http://makers.sigfox.com/getting-started/
 
-Pycom documentation is available here: https://docs.pycom.io/pycom_esp32/index.html
+Pycom documentation is available here: https://docs.pycom.io/chapter/gettingstarted/
 
 ## Prerequisite
-Install atom and the pymakr plugin as explained here: https://docs.pycom.io/pycom_esp32/pycom_esp32/getstarted.html#connecting-a-board-using-pymakr-plugin
+Install atom and the pymakr plugin as explained here: https://docs.pycom.io/chapter/gettingstarted/installingsoftware.html
 
 You can connect to the board using the serial port. In the pymakr console, click *more* and then *get serial ports*. Select the SiPy serial port and copy it in *Global Settings* => *Device Address*. Click *Reconnect* in the pymakr console to access the board.
 
